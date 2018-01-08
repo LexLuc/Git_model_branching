@@ -1,1 +1,1 @@
-feature1 minor bug fixed
+feature1 serious bug fixed
