@@ -1,1 +1,2 @@
-feature1 serious bug fixed
+New feature: feture_1 to be released
+with some minor bugs fixed
