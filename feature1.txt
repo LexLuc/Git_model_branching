@@ -1,1 +1,2 @@
-This is feature_1 where bugs has been fixed
+This is feature_1 where bugs has been fixed.
+New feature: feature_1 to be released.
