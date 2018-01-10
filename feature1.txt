@@ -1,2 +1,4 @@
 This is feature_1 where bugs has been fixed.
+Even with certain minor bugs!
 New feature: feature_1 to be released.
+version No. 0.11
