@@ -1,2 +1,3 @@
-New feature: feture_1 to be released
-with some minor bugs fixed
+New feature: feature_1 to be released withour any bugs!
+version No. 0.11
+release-0.11
